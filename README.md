@@ -34,3 +34,9 @@ Currently, I’m specializing in **AI/ML systems**, focusing on machine learning
 ---
 
 ⭐️ *Open to Software Engineer, AI/ML Engineer, and Full-Stack opportunities*
+
+## My GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=khemaraul&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=khemaraul)
